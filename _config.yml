@@ -6,9 +6,9 @@ color:
   saturation: 0.834440337261185
   rhythmicContrast: 0.7916681966744363
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Grid 1
