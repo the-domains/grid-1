@@ -11,6 +11,9 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 layout_spectrum: 0.05188651103526354
+author:
+  name: se103060
+  email: mail@103060.com
 name: Krasse1
 navigation:
   - name: Textsida 1
