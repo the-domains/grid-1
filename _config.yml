@@ -1,16 +1,16 @@
-typography_spectrum: 0.5489669900853187
+layout_spectrum: 0.8494009079877287
+typography_spectrum: 0.842125436058268
 color:
-  brandStrength: 0.8614139873534441
-  lightness: 0.2726959178689867
-  saturation: 0.834440337261185
-  rhythmicContrast: 0.7916681966744363
+  brandStrength: 0.6087653923314065
+  lightness: 0.2582947826012969
+  saturation: 0.05545805534347892
+  rhythmicContrast: 0.8424854187760502
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-layout_spectrum: 0.05188651103526354
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 author:
   name: se103060
   email: mail@103060.com
