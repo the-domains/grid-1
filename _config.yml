@@ -1,4 +1,3 @@
-layout_spectrum: 0.05188651103526354
 typography_spectrum: 0.5489669900853187
 color:
   brandStrength: 0.8614139873534441
@@ -6,9 +5,11 @@ color:
   saturation: 0.834440337261185
   rhythmicContrast: 0.7916681966744363
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.05188651103526354
 name: Grid 1
+title: Test1 med TheGrid
