@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-28T15:35:27.121Z'
+datePublished: '2016-09-01T10:07:07.911Z'
 sourcePath: _posts/2016-04-16-chocolate-skateboards-dqm-mast-brothers.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
   - cacao
 related: []
 author: []
-dateModified: '2016-06-28T15:35:26.520Z'
+dateModified: '2016-09-01T10:07:07.466Z'
 title: Chocolate Skateboards + DQM + Mast Brothers
 app_links: []
 publisher:
@@ -34,7 +34,8 @@ description: >-
   company shows no signs of slowing.
 inLanguage: en
 inNav: false
-starred: false
+via: {}
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
