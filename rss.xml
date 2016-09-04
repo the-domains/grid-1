@@ -4,7 +4,7 @@
         <description><![CDATA[Test1 med TheGrid]]></description>
         <link>https://thegrid.ai/grid-1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 10:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 10:07:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid-1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Drinks: Smoked Manhattan]]></title>
@@ -21,18 +21,18 @@
             <pubDate>Thu, 01 Sep 2016 10:06:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chocolate Skateboards + DQM + Mast Brothers]]></title>
+            <description><![CDATA[<article><h1>Chocolate Skateboards + DQM + Mast Brothers</h1><p>Since its humble beginnings as a sister company to Mike Carroll and Rick Howard's Girl Skateboards, Chocolate has grown into one of the more influential brands in skateboarding's surrounding culture. Now 20 years later, with legends like Gino Iannucci and young gun Elijah Berle on the roster, the company shows no signs of slowing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09adb57c67d7d90ccdac72399f593aaf7970d3c7.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/chocolate-skateboards-dqm-mast-brothers-bar</link>
+            <guid isPermaLink="false">d7620d0a-ee4f-4330-84fe-34275ec94c62</guid>
+            <pubDate>Thu, 01 Sep 2016 10:07:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4410e116-6de0-480b-9583-70e77ccad0c5.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4410e116-6de0-480b-9583-70e77ccad0c5.jpg</link>
             <guid isPermaLink="false">8ee0cb36-77bb-4fb9-ae5d-fd091d569bde</guid>
             <pubDate>Thu, 01 Sep 2016 09:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chocolate Skateboards + DQM + Mast Brothers]]></title>
-            <description><![CDATA[<article><h1>Chocolate Skateboards + DQM + Mast Brothers</h1><p>Since its humble beginnings as a sister company to Mike Carroll and Rick Howard's Girl Skateboards, Chocolate has grown into one of the more influential brands in skateboarding's surrounding culture. Now 20 years later, with legends like Gino Iannucci and young gun Elijah Berle on the roster, the company shows no signs of slowing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09adb57c67d7d90ccdac72399f593aaf7970d3c7.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/food-drink/chocolate-skateboards-dqm-mast-brothers-bar</link>
-            <guid isPermaLink="false">d7620d0a-ee4f-4330-84fe-34275ec94c62</guid>
-            <pubDate>Tue, 28 Jun 2016 15:35:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
